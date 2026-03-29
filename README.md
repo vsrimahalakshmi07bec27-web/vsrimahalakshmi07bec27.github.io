@@ -65,7 +65,6 @@ I build intelligent systems at the intersection of **hardware and software** —
 [![Email](https://img.shields.io/badge/Email-vsrimahalakshmi2007%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vsrimahalakshmi2007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sri--mahalakshmi--v-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-mahalakshmi-v-4a2b93327)
 [![GitHub](https://img.shields.io/badge/GitHub-vsrimahalakshmi07bec27-181717?style=flat&logo=github&logoColor=white)](https://github.com/vsrimahalakshmi07bec27)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2098946%2087059-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+919894687059)
 
 ---
 
